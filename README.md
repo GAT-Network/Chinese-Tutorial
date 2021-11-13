@@ -4,10 +4,16 @@
   * 网站：https://gat.network/
   * 通知频道：[Telegram](https://t.me/gat_news)、[Telegram Minted Vodka](https://t.me/mintedvodka)、[Discord](https://discord.gg/PdEj26VMjE)
 * 中文群组：[Telegram (Chinese) 中文志愿者群组](https://t.me/gatnetwork_cn)
+* 项目方各种奖励和空投：https://gat.network/challenges-nft-airdrops/
 
 ## 生态系统入门介绍
 
 * [英文版白皮书 Whitepaper](https://gat.network/wp-content/uploads/2021/11/GAT-Network-Litepaper.pdf)
+* 生态系统内各个项目简介：
+  * [Alchemy Toys 炼金术玩具](alchemytoys.md)
+  * [AlchemyArena 竞技场](alchemyarena.md)
+  * [Minted Vodka MV交易市场](mintedvodka.md)
+  * [GameAce NFT游戏](gameace.md)
 
 ### 合约地址
 
@@ -31,6 +37,32 @@
 
 ## 教程
 
-### [AlchemyToys 炼金术玩具](https://alchemytoys.com/)
+### [Alchemy Toys 炼金术玩具](https://alchemytoys.com/)
+
+* bake奶王写的关于bake ido项目GAT Network解析：[原文链接](https://bihu.com/a/1ZNo4k?i=5dO&c=1&s=1ZNo4k)
+* [游戏介绍](https://mp.weixin.qq.com/s/CDtmH7RB3MfeefwbM-knlw)
+* [卡成本计算的网址](https://zhangxianmeng.github.io/doggyNFT/dist/#/gat)
+
+* [进阶玩法介绍](https://bihu.com/article/1523018987)
+
+* 大橙子之视频介绍玩法第一集：[B站(国内)](https://www.bilibili.com/video/BV18b4y167xS)、[Youtube(国外)](https://youtu.be/1Nx9AqpmWNU)
+* 大橙子之视频介绍玩法第二集：[B站](https://www.bilibili.com/video/BV1eo4y1Q73y)[Youtube(国外)](https://www.youtube.com/watch?v=uUfDy6msTQ4&t=71s)
+
+* [兔兔crypto之视频介绍玩法1](https://www.youtube.com/watch?v=gkC_zZvfqq4)
+* [兔兔crypto之视频介绍玩法2](https://www.youtube.com/channel/UCyx5lBuylT9Wxuszbs9LcaA)
+* [兔兔crypto之视频介绍玩法3](https://youtu.be/3O5USuS9T4w)
+
+### [AlchemyArena 竞技场](https://alchemyarena.com/)
+* [特殊玩具介绍](specialtoys.md)
+* https://t.me/gatnetwork_cn/33005
 
 
+### [Minted Vodka MV交易市场](https://minted.vodka/)
+* [Mv交易市场使用方法：视频版](https://drive.google.com/file/d/1SXftpQCChPNyQfbJVhXQY-SLMSX7cdOm/view?usp=sharing)、[Youtube](https://www.youtube.com/watch?v=YmcTNdYyQEQ)
+* [MV市场图文教程（翻译使用）](https://gat.network/a-quick-guide-to-the-minted-vodka-nft-exchange/)
+
+### [GameAce NFT游戏](https://gameace.at/)
+
+
+## 社区建议 bug反馈
+官方Discord: 这个官方 discord 频道链接 https://discord.gg/PdEj26VMjE， 大家有啥好的建议，可以自己去 ideas频道去讨论，项目方都会看到
