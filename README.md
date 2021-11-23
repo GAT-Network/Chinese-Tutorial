@@ -54,7 +54,7 @@
 
 ### [AlchemyArena 竞技场](https://alchemyarena.com/)
 
-- [新手教程（wrydais）](https://github.com/GAT-Network/Chinese-Tutorial/blob/main/alchemyarena-tutorial/README.md)
+- [新手教程（wrydais）](https://github.com/GAT-Network/Chinese-Tutorial/blob/main/alchemyarena-tutorial/README.md)，如果国内图片无法加载可以看https://gitee.com/wrydais/Chinese-Tutorial/blob/main/alchemyarena-tutorial/%E7%82%BC%E9%87%91%E6%9C%AF%E7%AB%9E%E6%8A%80%E5%9C%BA%20(Alchemy%20Arena).md
 
 * [特殊玩具介绍](specialtoys.md)
 * https://t.me/gatnetwork_cn/33005
