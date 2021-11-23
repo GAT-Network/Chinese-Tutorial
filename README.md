@@ -53,6 +53,9 @@
 * [兔兔crypto之视频介绍玩法3](https://youtu.be/3O5USuS9T4w)
 
 ### [AlchemyArena 竞技场](https://alchemyarena.com/)
+
+- [新手教程（wrydais）](https://github.com/GAT-Network/Chinese-Tutorial/blob/main/alchemyarena-tutorial/README.md)
+
 * [特殊玩具介绍](specialtoys.md)
 * https://t.me/gatnetwork_cn/33005
 
