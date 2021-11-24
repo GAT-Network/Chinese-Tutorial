@@ -47,6 +47,12 @@
 * [抹茶交易所 MEXC Global](https://www.mexc.com/)
 * K线：[PooCoin Price Charts](https://poocoin.app/tokens/0xf315cfc8550f6fca969d397ca8b807c5033fa122) 
 
+### GAT 质押
+
+- 在萨满宝库[质押 GAT 获取 BNB](https://alchemytoys.com/shamans-vault) 
+- 在 Bakeryswap [质押 GAT-BNB BLP 获取 BAKE](https://www.bakeryswap.org/#/bakery/BAKE/GAT-BNB%20BLP) 
+- 在Minted Vodka市场[质押 GAT 获取 GameAce NFT 小游戏 Missile Commander](https://minted.vodka/cocktails) 
+
 ## 教程
 
 ### [Alchemy Toys 炼金术玩具](https://alchemytoys.com/)
