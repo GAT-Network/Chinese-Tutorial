@@ -29,10 +29,22 @@
 | **GA** | Ethereum | [0xAA18e408A1806AA3aAACf4eDB7418534D612D1f0](https://etherscan.io/token/0xAA18e408A1806AA3aAACf4eDB7418534D612D1f0) | GameAce NFT Cartridges |
 | **GA** | Polygon | [0x55c000c100488624C2F6b43cFc0f680d2657933b](https://polygonscan.com/token/0x55c000c100488624C2F6b43cFc0f680d2657933b) | GameAce NFT Cartridges |
 
-* 交易所和流动性池
-  * [BakerySwap](https://www.bakeryswap.org/#/swap?outputCurrency=0xf315cfc8550f6fca969d397ca8b807c5033fa122)：流动性较好，建议在此交易
-  * [PancakeSwap](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xf315cfc8550f6fca969d397ca8b807c5033fa122)：社区建立
-  * [抹茶交易所 MEXC Global](https://www.mexc.com/)
+#### 玩具 TOYs
+
+玩具 TOYs 是GAT生态系统中各种游戏中使用的关键NFT。
+
+这些玩具大多是通过炼金术玩具游戏创建的，但一些其他特殊玩具是由GAT项目方创建的，在平时的活动中发放，并且可能在其他游戏（如炼金术竞技场或GameAce）中具有特殊功能。这些玩具NFT具有内在价值，因为
+
+1. 它们必须被烧掉，才能让玩家在炼金术玩具游戏中启蒙，从而赢得宝库的一部分。
+2. 在炼金术竞技场中形成质押的手需要由玩具组成。
+
+玩具在MV市场上在玩家之间交易。
+
+
+### 交易所和流动性池
+* [BakerySwap](https://www.bakeryswap.org/#/swap?outputCurrency=0xf315cfc8550f6fca969d397ca8b807c5033fa122)：流动性较好，建议在此交易
+* [PancakeSwap](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xf315cfc8550f6fca969d397ca8b807c5033fa122)：社区建立
+* [抹茶交易所 MEXC Global](https://www.mexc.com/)
 * K线：[PooCoin Price Charts](https://poocoin.app/tokens/0xf315cfc8550f6fca969d397ca8b807c5033fa122) 
 
 ## 教程
@@ -54,7 +66,7 @@
 
 ### [AlchemyArena 竞技场](https://alchemyarena.com/)
 
-- [新手教程（wrydais）](https://github.com/GAT-Network/Chinese-Tutorial/blob/main/alchemyarena-tutorial/README.md)，如果国内图片无法加载可以看https://gitee.com/wrydais/Chinese-Tutorial/blob/main/alchemyarena-tutorial/%E7%82%BC%E9%87%91%E6%9C%AF%E7%AB%9E%E6%8A%80%E5%9C%BA%20(Alchemy%20Arena).md
+- [新手教程（wrydais）](https://github.com/GAT-Network/Chinese-Tutorial/blob/main/alchemyarena-tutorial/wrydais/README.md)，如果国内图片无法加载可以看https://gitee.com/wrydais/Chinese-Tutorial/blob/main/alchemyarena-tutorial/%E7%82%BC%E9%87%91%E6%9C%AF%E7%AB%9E%E6%8A%80%E5%9C%BA%20(Alchemy%20Arena).md
 
 * [特殊玩具介绍](specialtoys.md)
 * https://t.me/gatnetwork_cn/33005
