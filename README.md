@@ -9,7 +9,7 @@
 ## 生态系统入门介绍
 
 * 白皮书：
-    * [英文版 Whitepaper](https://gat.network/wp-content/uploads/2021/11/GAT-Network-Litepaper.pdf) 
+    * [英文版 Whitepaper](https://gat.network/wp-content/uploads/2021/11/litepaper.pdf) 
  
 * 生态系统内各个项目简介：
   * [Alchemy Toys 炼金术玩具](alchemytoys.md)
