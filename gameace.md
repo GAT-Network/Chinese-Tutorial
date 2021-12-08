@@ -7,7 +7,8 @@
 * 只有当钱包中有相应的卡带NFT才可以玩。卡带限量，铸造的数量很少。
 
 ## 目前已发布
-![](https://gameace.at/overview-games.229f2af0.png)
+
+![](https://gameace.at/overview-games2.dcb76697.png)
 
 ## 工作原理
 
