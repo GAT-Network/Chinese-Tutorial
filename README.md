@@ -141,6 +141,7 @@ GATe供应将仅用于直接推进GAT网络项目，并确保未来的增长。
 
 
 ## 其他
+* GAT官方商业合作：https://gat.network/business-requests/
 * 社区建议：[Discord #idea](https://discord.gg/PdEj26VMjE)
 * bug反馈：[Discord #bug-report](https://discord.gg/dTZtpvDzGU)
 * GAT价格讨论群(英文)：[Telegram](https://t.me/GATprice)
