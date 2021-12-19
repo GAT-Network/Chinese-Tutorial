@@ -25,7 +25,22 @@ Alchemy Arena（炼金术竞技场）是一款战斗游戏，玩家可以在此�
 
 [XP流动性池](https://pancakeswap.finance/swap?outputCurrency=0xF7D2b88Cdfcc3a12452c76Be7455fe1FA7f48852)
 
-Sorry, your browser doesn't support embedded videos.
+- [炼金术竞技场 (Alchemy Arena)](#炼金术竞技场-alchemy-arena)
+  - [创建HAND](#创建hand)
+    - [HAND本身就是一个 NFT——它可以容纳 5 个你选中的TOYs。](#hand本身就是一个-nft它可以容纳-5-个你选中的toys)
+  - [竞技场](#竞技场)
+    - [HAND可以进入竞技场中，并与竞技场内的其他HAND战斗。](#hand可以进入竞技场中并与竞技场内的其他hand战斗)
+    - [强化](#强化)
+  - [参与战斗](#参与战斗)
+    - [攻方 vs 守方](#攻方-vs-守方)
+  - [赢得挑战](#赢得挑战)
+    - [获胜者将由攻守双方HAND的强度及一个较小的机会因素（可以HAND的强度增加或降低）共同决定。](#获胜者将由攻守双方hand的强度及一个较小的机会因素可以hand的强度增加或降低共同决定)
+    - [冷却](#冷却)
+    - [共赢的游戏机制](#共赢的游戏机制)
+  - [Alchemy Toys 玩家们](#alchemy-toys-玩家们)
+      - [TOYS和GAT的新用途](#toys和gat的新用途)
+  - [以特殊道具增强你的HAND](#以特殊道具增强你的hand)
+  - [Happy hours 竞技场规则](#happy-hours-竞技场规则)
 
 ## 创建HAND
 

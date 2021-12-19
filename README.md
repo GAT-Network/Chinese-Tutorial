@@ -1,5 +1,3 @@
-**NFT的完整跨链工具集-我们创造 NFT 贸易和游戏的未来！**
-
 Gat Network是**一个由 NFT 交易和游戏项目组成的网络**，由德国一个完全透明的团队/公司于2021年初推出。
 
 GAT 是以 **[Minted Vodka](https://minted.vodka/)** 为中心的**下一代加密资产市场和 NFT 工具集**:
@@ -22,6 +20,23 @@ GAT 是以 **[Minted Vodka](https://minted.vodka/)** 为中心的**下一代加�
 *   [**Game Ace**](https://gameace.at/#/) – 世界上第一个可玩的游戏NFT
 
 我们正在分享我们的经验和链上游戏创新领域的知识，为其他项目提供合作/服务。我们**为独立游戏开发者和其他 NFT 创作者开发易于使用的跨链工具**: 以游戏化的方式创建、管理、交易和分发他们的作品。
+
+- [社区和网站](#社区和网站)
+- [生态系统入门介绍](#生态系统入门介绍)
+  - [合约地址](#合约地址)
+    - [GAT 和 GATe](#gat-和-gate)
+    - [XP](#xp)
+    - [玩具 TOYs](#玩具-toys)
+    - [GA -GameAce NFT](#ga--gameace-nft)
+  - [交易所和流动性池](#交易所和流动性池)
+  - [GAT 质押](#gat-质押)
+- [教程](#教程)
+  - [Alchemy Toys 炼金术玩具](#alchemy-toys-炼金术玩具)
+  - [AlchemyArena 竞技场](#alchemyarena-竞技场)
+  - [Minted Vodka MV交易市场](#minted-vodka-mv交易市场)
+  - [GameAce NFT游戏](#gameace-nft游戏)
+- [其他](#其他)
+
 
 ## 社区和网站
 

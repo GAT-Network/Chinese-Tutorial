@@ -6,6 +6,31 @@
 * 部署在IPFS上：完整自主权、分布式、不可修改、不可摧毁，永远属于您。
 * 只有当钱包中有相应的卡带NFT才可以玩。卡带限量，铸造的数量很少。
 
+- [Game Ace – 世界上第一款可以作为独立复古电子游戏玩的 NFT](#game-ace--世界上第一款可以作为独立复古电子游戏玩的-nft)
+  - [目前已发布](#目前已发布)
+  - [工作原理](#工作原理)
+  - [游戏](#游戏)
+    - [#1 Doggies Moon Chase 小狗追月](#1-doggies-moon-chase-小狗追月)
+    - [#2 CryptoSnake 加密贪吃蛇](#2-cryptosnake-加密贪吃蛇)
+    - [#4 Missile Commander 防空导弹](#4-missile-commander-防空导弹)
+    - [Elon to the moon! 马斯克去月球](#elon-to-the-moon-马斯克去月球)
+    - [](#)
+    - [Elon's Moon Shootout 马斯克的月球射击](#elons-moon-shootout-马斯克的月球射击)
+    - [下一个游戏](#下一个游戏)
+- [常见问题](#常见问题)
+    - [为什么游戏如此困难？](#为什么游戏如此困难)
+    - [我可以报告bug吗？](#我可以报告bug吗)
+    - [支持哪些链？](#支持哪些链)
+    - [我可以在买之前试玩这个游戏吗？](#我可以在买之前试玩这个游戏吗)
+    - [按钮是如何映射到键盘上的？](#按钮是如何映射到键盘上的)
+    - [我怎样才能确保我的游戏永远停留在 IPFS 上？](#我怎样才能确保我的游戏永远停留在-ipfs-上)
+    - [我有一个合作计划... ？](#我有一个合作计划-)
+    - [为什么我在 Brave 浏览器上有问题？](#为什么我在-brave-浏览器上有问题)
+    - [NFT 卡带合约是什么？](#nft-卡带合约是什么)
+    - [你是谁？](#你是谁)
+- [免责声明](#免责声明)
+
+
 ## 目前已发布
 
 ![](https://gameace.at/overview-games2.dcb76697.png)
@@ -95,9 +120,9 @@ GameAce NFT
 
 ![](https://gameace.at/elon-concept.46ba3c96.png)
 
-### Elon to the moon!
+### Elon to the moon! 马斯克去月球
 
-### 埃隆去月球
+### 
 
 Elon is trying to reach the moon on his doge-rocket. On his way he encounters space-blocks, ships & launchpads of Bearwhales, BlackSwans and Byzantine Generals, that try to dump his coins. A battle for the moon begins!
 
@@ -114,9 +139,7 @@ GameAce NFT
 
 ![](https://gameace.at/ShootoutCartridge.a22b8548.png)
 
-### Elon's Moon Shootout
-
-### 埃隆的月球拍摄
+### Elon's Moon Shootout 马斯克的月球射击
 
 Elon finally reaches the moon. However, he has to defend it against an army of Bearz and FUDsters.
 
@@ -133,9 +156,8 @@ GameAce NFT
 
 ![](https://gameace.at/question.627625bc.png)
 
-### Next Drop
 
-### 下一滴
+### 下一个游戏
 
 Next drop will happen when the artist (me) gets drunk enough to write another master piece of game code.
 
@@ -150,122 +172,79 @@ Next drop will happen when the artist (me) gets drunk enough to write another ma
 
 ---
 
-# FAQ
-
 # 常见问题
-
-### Why are the games so difficult ?
 
 ### 为什么游戏如此困难？
 
-These games are built to teach you hard truths in crypto and in life in general. Read the game essence of each game for more details.
-
 这些游戏是为了教你在密码和生活中的艰难真理而设计的。阅读每个游戏的游戏精髓，了解更多细节。
 
-### Can I report a bug ?
+### 我可以报告bug吗？
 
-### 我可以报告错误吗？
+“不可修改”的哪个部分还不清楚？这是网络艺术品！bug和小故障是游戏体验的一部分-享受吧！
 
-What part of "unmodifiable" is still unclear ? This is cyber-artwork! Bugs and glitches are a part of the gaming experience - enjoy!
+### 支持哪些链？
 
-“不可修改”的哪个部分还不清楚？这是网络艺术品！错误和小故障是游戏体验的一部分-享受！
+NFT 卡带是BSC网络上的产生的。但是你也已经可以在其他网络交易和畅玩你的GameAce游戏！你所需要做的就是在这里桥接它们: [Minted Vodka Bridge](https://minted.vodka/tools/bridge)
 
-### What chains are supported ?
-
-### 支持哪些链条？
-
-NFT Cartridges are native on BSC, where they are minted. But you can already trade and play your GameAce cartridges on other networks, too! All you need is to bridge them here:
-[Minted Vodka Bridge](https://minted.vodka/tools/bridge)
-Right now these chains are supported:
+现在这些链被支持: 
 
 *   Binance Smart Chain
 *   Ethereum
 *   Polygon
 
-Please be aware that in-game TOY cheats work only on BSC!
-
-NFT 墨盒是平衡计分卡上的天然产物，在那里它们被铸造出来。但是你已经可以交易和发挥你的游戏王盒在其他网络，也！你所需要做的就是在这里架起桥梁: Minted Vodka Bridge Right 现在这些链被支持: Binance Smart Chain Ethereum Polygon 请注意，游戏中的 TOY 作弊器只能在 BSC 上使用！
-
-### Can I try the game before I buy ?
+请注意，游戏中的 TOY 作弊器只能在 BSC 上使用！
 
 ### 我可以在买之前试玩这个游戏吗？
 
-The games are to be regarded as artwork and not as functional software. I am an artist in the first place.
-That said: most games will have a limited demo version.
+这些游戏应该被看作是艺术品，而不是功能软件。我本来就是一个艺术家。
 
-这些游戏应该被看作是艺术品，而不是功能软件。我本来就是一个艺术家。也就是说: 大多数游戏都有一个有限的演示版本。
-
-### How are the buttons mapped to the keyboard ?
+也就是说: 大多数游戏都有一个有限的演示版本。
 
 ### 按钮是如何映射到键盘上的？
 
 *   "A" -> "A"
 *   "B" -> "S"
-*   "Start" -> "Enter"
-*   "Reset" -> "Escape"
-*   Direction Buttons -> Arrow Keys
+*   "Start 开始" -> "Enter"
+*   "Reset 重置" -> "Escape"
+*   方向按钮 -> 箭头键
 
 ![](https://gameace.at/mapping.7665a511.png)
 
-“ a”-> “ a”“ b”-> “ s”“开始”-> “输入”“重置”-> “逃逸”方向按钮-> 箭头键
-
-### How can I make sure my game stays on IPFS forever ?
-
 ### 我怎样才能确保我的游戏永远停留在 IPFS 上？
 
-The creator already uses several pin services. You should not need to do anything. However, if you are paranoid, you do have a few further options:
+创建者已经使用了几个 pin 服务。你不需要做任何事情。然而，如果您是偏执狂，您确实有一些进一步的选择: 
 
-*   [Get IPFS Desktop](https://docs.ipfs.io/install/ipfs-desktop/) node and pin the game CID on your computer.
-*   [Pinata pin service](https://pinata.cloud/) is free for up to 1 GB, enough for hundreds of different GameAce games
-*   Use other pin services, there are many!
-
-创建者已经使用了几个 pin 服务。你不需要做任何事情。然而，如果您是偏执狂，您确实有一些进一步的选择: 获得 IPFS 桌面节点和钉游戏 CID 在您的计算机上。皮纳塔引脚服务是免费的高达1gb，足够数百种不同的游戏王牌游戏使用其他引脚服务，有很多！
-
-### I have a collaboration proposal... ?
+*   [获得 IPFS 桌面节点](https://docs.ipfs.io/install/ipfs-desktop/) 后把游戏 CID pin在您的计算机上。
+*   [Pinata pin 服务](https://pinata.cloud/) ，免费容量高达1gb，足够数百种不同的GameAce游戏。
+*   使用其他pin服务，有很多！
 
 ### 我有一个合作计划... ？
 
-artist(at)gameace . at or mail(at)gat.network
-
-艺术家(在)游戏王。在或邮寄(在) gat 网络工作
-
-### Why do I have problems with Brave browser ?
+艺术家(在)gameace.at …… 或发邮件(到) gat.network
 
 ### 为什么我在 Brave 浏览器上有问题？
 
-The games should work just fine on all modern browsers (especially Chromium-based). I suggest to avoid "browsers" like FireFox or Brave.
-
 这款游戏在所有现代浏览器上都能正常运行(尤其是基于 chromium 的浏览器)。我建议避免使用 FireFox 或者 Brave 这样的“浏览器”。
 
-### What are the NFT Cartridges Contracts ?
+### NFT 卡带合约是什么？
 
-### 什么是 NFT 墨盒合同？
-
-[Binance Smart Chain](https://bscscan.com/token/0xff473df96251AcFfb0Ae06fDAA51d33F1Dafff7c)
-[Ethereum](https://etherscan.io/token/0xAA18e408A1806AA3aAACf4eDB7418534D612D1f0)
-[Polygon](https://polygonscan.com/token/0xEC0a873cdBE667E5bD68AF47932c948f872032d6)
-
-智能链以太多边形
-
-### Who are you ?
+* [Binance Smart Chain](https://bscscan.com/token/0xff473df96251AcFfb0Ae06fDAA51d33F1Dafff7c)
+* [Ethereum](https://etherscan.io/token/0xAA18e408A1806AA3aAACf4eDB7418534D612D1f0)
+* [Polygon](https://polygonscan.com/token/0xEC0a873cdBE667E5bD68AF47932c948f872032d6)
 
 ### 你是谁？
 
-The Artist prefers to stay anonymous, however I am [Human After All](https://www.youtube.com/watch?v=PXYeARRyDWk)
+The Artist prefers to stay anonymous, however I am 
 
-艺术家喜欢保持匿名，然而我毕竟是人
+艺术家喜欢保持匿名，然而我[毕竟是人 Human After All](https://www.youtube.com/watch?v=PXYeARRyDWk)
 
 ---
 
-# Disclaimer
-
 # 免责声明
 
-No guarantees nor warranties are given – at all. Furthermore:
+不提供任何保证或担保——根本上。此外: 
 
-*   no warranty is given regarding the correctness nor completeness of the information nor functionality on this website
-*   no warranty is given regarding the correctness nor completeness of the information nor functionality of the created games / NFTs
+* 本网站并不保证资料或功能是否正确或完整，
+* 亦不保证所制作的游戏/游戏机的功能是否正确或完整。
 
-The games are to be regarded as artwork and not as flawlessly functional software.
-
-不提供任何保证或担保——根本不提供。此外: 本网站并不保证资料或功能是否正确或完整，亦不保证所制作的游戏/游戏机的功能是否正确或完整。游戏应被视为艺术品，而非功能完美的软件。
+游戏应被视为艺术品，而非功能完美的软件。

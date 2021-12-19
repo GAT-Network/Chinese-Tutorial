@@ -3,6 +3,10 @@
 
 Minted Vodka（简称MV） 是由GAT自行开发的一个可以交易任何BEP721（NFT）和BEP20（代币）的交易所，具备非常完整的灵活性，支持使用任何加密资产的任意组合，多对多交易，功能丰富且强大。
 
+- [Minted Vodka – 高度灵活的 NFT 交易所](#minted-vodka--高度灵活的-nft-交易所)
+  - [MV市场 v2 特性](#mv市场-v2-特性)
+  - [教程：](#教程)
+
 ## MV市场 v2 特性
 
 ![](https://gat.network/wp-content/uploads/2021/12/61e129eb-d086-4be2-a58f-656a7b49fd9d-1200x675.png)
