@@ -61,7 +61,8 @@
 ## 常见问题 FAQ
 
 1. 游戏入口？
- https://alchemyarena.com/?a=0x2a7aB5cBc1C84Ead0801FB6eBbE1A70478040BE7
+
+ https://alchemyarena.com/?a=0x9a818a78d665224Dfb84771d86fD54611788FD70
 
 2. 游戏合约是否审计？
 
@@ -70,7 +71,9 @@
 3. 什么是特殊卡牌？
 
 ![IMG_20211123_151025_926](IMG_20211123_151025_926.jpg)
+
 Alchemy Toys 最多可容纳63个特殊玩具。这些 NFT 在 Alchemy Toys 中没有功能，但它们在Alchemy Arena（竞技场）游戏中发挥重要作用——而且它们具有很高的收藏价值，因为它们中的大多数都是有限的。
+
 中文区教程介绍：https://github.com/GAT-Network/Chinese-Tutorial/blob/main/specialtoys.md
 
 4. 有视频教程吗？
