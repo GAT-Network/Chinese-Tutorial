@@ -9,6 +9,16 @@ Minted Vodka（简称MV） 是由GAT自行开发的一个可以交易任何BEP72
 
 ## MV市场 v2 特性
 
+
+* 社区支持的方式: 
+测试新的 v2用户界面和交易系统 https://V2.minted.vodka/
+* bug反馈可以在这里提交 https://forms.gle/6UVsjm72UmB4vU2A6
+* 创建新的交易在 v2在这里:  
+https://V2.minted.vodka/market/optideal 
+* 这样你可以参加周五购物狂欢在这里https://medium.com/gat-network/mintedvodka-2-preview-shopping-spree-ff7567317b0c
+* 提交 NFT 集合，你想有白名单上的 https://forms.gle/YynkG1YyUhmVFDCL7
+
+
 ![](https://gat.network/wp-content/uploads/2021/12/61e129eb-d086-4be2-a58f-656a7b49fd9d-1200x675.png)
 
 * **跨链交易**：在主要的L1/L2网络上创建超级灵活的交易。用任何东西换任何数量的东西。最大的灵活性以符合您的需求，距离计划中的跨链交易仅一步之遥！
