@@ -60,7 +60,7 @@ GAT 是以 **[Minted Vodka](https://v2.minted.vodka/)** 为中心的**下一代�
   * [Minted Vodka MV交易市场](mintedvodka.md)：一个强大的 NFT 市场，也可以提供质押解决方案
   * [GameAce NFT游戏](gameace.md)：世界上第一个可玩的 NFT 游戏，原生于BSC 网络，但可移植到 ETH 和 Polygon
 
-![生态图](https://gat.network/wp-content/uploads/2021/10/GATNetwork-x2.png)
+![生态图](https://gat.network/wp-content/uploads/2022/01/gat-ecosystem-800x750.png)
 
 ### 合约地址
 
@@ -135,7 +135,8 @@ GATe供应将仅用于直接推进GAT网络项目，并确保未来的增长。
 
 - 在萨满宝库[质押 GAT 获取 BNB](https://alchemytoys.com/shamans-vault) 
 - 在 Bakeryswap [质押 GAT-BNB BLP 获取 BAKE](https://www.bakeryswap.org/#/bakery/BAKE/GAT-BNB%20BLP) 
-- 在Minted Vodka市场[质押 GAT 获取 GameAce NFT 小游戏 Missile Commander](https://minted.vodka/cocktails) 
+- ~~在Minted Vodka市场[质押 GAT 获取 GameAce NFT 小游戏 Missile Commander](https://minted.vodka/cocktails) ~~已结束
+- 即将到来：Minted Vodka市场质押获取手续费分红
 
 ![image](https://user-images.githubusercontent.com/79005927/150632689-4198e28b-3873-4ec3-996e-011f92f2479c.png)
 

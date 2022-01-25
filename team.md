@@ -1,0 +1,2 @@
+https://gat.network/team/
+

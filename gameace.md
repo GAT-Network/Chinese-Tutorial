@@ -110,7 +110,7 @@ flappy-bird 的克隆。CryptoDoggie 正在追逐月亮，并在此过程中收�
 
 [更多信息](https://gameace.at/#/missile) 
 [试玩](https://gameace.mypinata.cloud/ipfs/QmWbzhygnViHZqEZg6LAHnJx8Dm3CEKB2AHf2FHgTWP2Pa/) 
-[游戏入口]https://gameace.mypinata.cloud/ipfs/Qmap6LLANUnt4k4BMKjfxLJ3kgjy15zfrGefenH4ZpQjzk/)
+[游戏入口](https://gameace.mypinata.cloud/ipfs/Qmap6LLANUnt4k4BMKjfxLJ3kgjy15zfrGefenH4ZpQjzk/)
 
 ---
 
