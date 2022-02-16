@@ -1,6 +1,6 @@
 Gat Network是**一个由 NFT 交易和游戏项目组成的网络**，由德国一个完全透明的团队/公司于2021年初推出。
 
-GAT 是以 **[Minted Vodka](https://v2.minted.vodka/)** 为中心的**下一代加密资产市场和 NFT 工具集**:
+GAT 是以 **[Minted Vodka](https://minted.vodka/)** 为中心的**下一代加密资产市场和 NFT 工具集**:
 
 * 非托管
 * 多链/跨链
@@ -80,7 +80,7 @@ GAT 是以 **[Minted Vodka](https://v2.minted.vodka/)** 为中心的**下一代�
 
 GAT 代币是 GAT 网络的核心代币，用于质押获得奖励 ，玩炼金术竞技场以及 MintedVodka 的高级交易。随着 Minted Vodka 功能的增长，预计还会有其他用例。质押机会包括在 BakerySwap 上质押流动性以获取 BAKE 代币，在 Alchemy Toys 上质押以分享宝库，以及在 Minted Vodka 上质押以获得 GameAce NFT 等奖励。GAT 固定发行1,000,000 枚代币，并自引入炼金术竞技场后部分质押的 GAT 被烧掉而通缩。
 
-[在加入Binance Lab 孵化后在GAT的跨链代币wGAT（原GAT代币可以 1：1 转换）的基础上增发1,000,000并改名为GATe](https://medium.com/gat-network/important-update-binance-incubation-gat-supply-31d0725259ac),作为生态系统增长资金，用途被限制如下：
+[在加入Binance Lab 孵化后在GAT的跨链代币wGAT（原GAT代币可以 1：1 转换）的基础上增发1,000,000并改名为GATe](https://medium.com/gat-network/important-update-binance-incubation-gat-supply-31d0725259ac)，作为生态系统增长资金，用途被限制如下：
 
 * **顶级CEX上币(例如币安)**—提供上市代币
 * **关键战略合作伙伴关系**(例如，使用特殊合资活动的代币)
@@ -135,7 +135,7 @@ GATe供应将仅用于直接推进GAT网络项目，并确保未来的增长。
 
 - 在萨满宝库[质押 GAT 获取 BNB](https://alchemytoys.com/shamans-vault) 
 - 在 Bakeryswap [质押 GAT-BNB BLP 获取 BAKE](https://www.bakeryswap.org/#/bakery/BAKE/GAT-BNB%20BLP) 
-- ~~在Minted Vodka市场[质押 GAT 获取 GameAce NFT 小游戏 Missile Commander](https://minted.vodka/cocktails) ~~已结束
+- 在Minted Vodka市场[质押 GAT 获取 GameAce NFT 小游戏 Missile Commander](https://minted.vodka/cocktails) —已结束
 - 即将到来：Minted Vodka市场质押获取手续费分红
 
 ![image](https://user-images.githubusercontent.com/79005927/150632689-4198e28b-3873-4ec3-996e-011f92f2479c.png)
@@ -169,7 +169,7 @@ GATe供应将仅用于直接推进GAT网络项目，并确保未来的增长。
 * https://t.me/gatnetwork_cn/33005
 
 
-### [Minted Vodka MV交易市场](https://v2.minted.vodka/)
+### [Minted Vodka MV交易市场](https://minted.vodka/)
 
 ![](https://minted.vodka/img/logo-wide.png)
 
@@ -178,10 +178,9 @@ GATe供应将仅用于直接推进GAT网络项目，并确保未来的增长。
 
 ### [GameAce NFT游戏](https://gameace.at/)
 
-![](https://gameace.at/overview-games2.dcb76697.png)
+![](https://gameace.at/overview-games.20accae6.png)
 
 * 查看自己的 GameAce NFT：https://gameace.at/#/my-nft-cartridges
-
 
 ## 其他
 * GAT官方商业合作：https://gat.network/business-requests/
@@ -194,6 +193,8 @@ GATe供应将仅用于直接推进GAT网络项目，并确保未来的增长。
 
 ## 月报
 
+* 一月 月报☕️：
+https://medium.com/p/gat-network-update-january-9c0776380f72
 * 12月 月报☕️：https://medium.com/gat-network/gat-network-update-december-8c886a2e4b35
 * 11月 月报☕️：https://medium.com/gat-network/gat-network-update-november-14b6aabd0d59
 * 9/10月 月报☕️：https://medium.com/gat-network/gat-network-update-september-october-1c6a5e310a7e
@@ -202,6 +203,10 @@ GATe供应将仅用于直接推进GAT网络项目，并确保未来的增长。
 Minted Vodka Roadmap  Part 1：https://medium.com/gat-network/minted-vodka-roadmap-part-1-e8c4380b4517
 
 ## 社区一小时
+
+* #6
+https://medium.com/p/community-ama-6-feb-7th-4cbbd25af661
+* #5 https://medium.com/gat-network/recap-community-hour-5-january-27th-ee64b596c52
 * #4 https://medium.com/p/recap-community-hour-4-january-19th-744f269cd1a3
 * #3 https://medium.com/p/recap-community-hour-3-january-5th-9ec59dee7d8c
 * #2 https://medium.com/gat-network/recap-community-hour-dec-29th-e284bd8c5c0a

@@ -1,23 +1,15 @@
 # Minted Vodka – 高度灵活的 NFT 交易所
 ![](https://minted.vodka/img/logo-wide.png)
 
+网址：https://minted.vodka
+
 Minted Vodka（简称MV） 是由GAT自行开发的一个可以交易任何BEP721（NFT）和BEP20（代币）的交易所，具备非常完整的灵活性，支持使用任何加密资产的任意组合，多对多交易，功能丰富且强大。
 
 - [Minted Vodka – 高度灵活的 NFT 交易所](#minted-vodka--高度灵活的-nft-交易所)
   - [MV市场 v2 特性](#mv市场-v2-特性)
-  - [教程：](#教程)
+  - [教程](#教程)
 
 ## MV市场 v2 特性
-
-
-* 社区支持的方式: 
-测试新的 v2用户界面和交易系统 https://V2.minted.vodka/
-* bug反馈可以在这里提交 https://forms.gle/6UVsjm72UmB4vU2A6
-* 创建新的交易在 v2在这里:  
-https://V2.minted.vodka/market/optideal 
-* 这样你可以参加周五购物狂欢在这里https://medium.com/gat-network/mintedvodka-2-preview-shopping-spree-ff7567317b0c
-* 提交 NFT 集合，你想有白名单上的 https://forms.gle/YynkG1YyUhmVFDCL7
-
 
 ![](https://gat.network/wp-content/uploads/2021/12/61e129eb-d086-4be2-a58f-656a7b49fd9d-1200x675.png)
 
@@ -34,15 +26,13 @@ https://V2.minted.vodka/market/optideal
 * **满足您所有需求的代币包装**：转换和包装代币，而无需离开MV市场。锁定代币和NFT的任何组合（即使不是在这里铸造的）在一个“瓶子”里，可以在任何网络上移动和交易，即使在MV市场之外。
 * **可认领的服务**：就像真正的产品一样，你可以“铸造”你的服务，无论是可交付的票据还是半可替代的物品，比如你时间里的一个“小时”。你可以定义到期日期、交付地点等条件。认领人可以对您的服务进行评分，随着时间的推移提高您的声誉和信任。
 
-
 * 灵活的交易引擎：允许除了通常的销售之外的其他类型的交易，例如：捆绑、交换、复杂的出价和还价。
 * 强大的搜索引擎：创造多维的筛选条件，以准确找到用户正在寻找的内容。
 * 固定费用交易和溢价交易：没有上架费用，只有成功交易的固定费用：0.014BNB。如果在交易中使用 GAT 时，无需支付任何费用！
 
-[MV新版预览](https://gat.network/wp-content/uploads/2021/12/MVv2.mp4)
+### 教程（旧版）：
 
-## 教程：
+* Mv交易市场使用方法：[视频版](https://drive.google.com/file/d/1SXftpQCChPNyQfbJVhXQY-SLMSX7cdOm/view?usp=sharing) 、[Youtube](https://www.youtube.com/watch?v=YmcTNdYyQEQ)
 
-* [Mv交易市场使用方法：视频版](https://drive.google.com/file/d/1SXftpQCChPNyQfbJVhXQY-SLMSX7cdOm/view?usp=sharing)、[Youtube](https://www.youtube.com/watch?v=YmcTNdYyQEQ)
 * [MV市场图文教程（翻译使用）](https://gat.network/a-quick-guide-to-the-minted-vodka-nft-exchange/)
 
