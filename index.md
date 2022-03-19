@@ -62,3 +62,8 @@ GAT 是以 **[Minted Vodka](https://minted.vodka/)** 为中心的**下一代加�
 * [月报](_posts/2022-03-19-month-update.md)
 * [社区一小时](_posts/2022-03-19-community-hours.md)
 * [合作伙伴](_posts/2022-03-19-partner.md)
+
+
+[![](https://gat.network/wp-content/uploads/2022/01/binance-incubation-1.jpeg)](https://www.binance.com/en/blog/ecosystem/binance-labs-launches-season-3-of-incubation-program-421499824684903042)
+
+[![](https://gat.network/wp-content/uploads/2022/03/gatmvb_IV-1.png)](https://www.bnbchain.world/en/blog/mvb-iv-metafi-smarter-defi-for-the-web3-universe/)
