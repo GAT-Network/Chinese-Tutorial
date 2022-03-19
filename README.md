@@ -19,7 +19,7 @@ GAT 是以 **[Minted Vodka](https://minted.vodka/)** 为中心的**下一代加�
 *   [**炼金术竞技场 Alchemy Arena**](https://alchemyarena.com/) – p2e 游戏
 *   [**Game Ace**](https://gameace.at/#/) – 世界上第一个可玩的游戏NFT
 
-![](https://gat.network/wp-content/uploads/2022/01/gat-ecosystem.png "gat-ecosystem")
+![生态图](https://gat.network/wp-content/uploads/2022/01/gat-ecosystem-800x750.png)
 
 我们正在分享我们的经验和链上游戏创新领域的知识，为其他项目提供合作/服务。我们**为独立游戏开发者和其他 NFT 创作者开发易于使用的跨链工具**: 以游戏化的方式创建、管理、交易和分发他们的作品。
 
@@ -41,8 +41,6 @@ GAT 是以 **[Minted Vodka](https://minted.vodka/)** 为中心的**下一代加�
   * [AlchemyArena 竞技场](_posts/2022-03-19-alchemyarena.md)：使用 TOY(玩具)的玩家对战游戏，同时提供质押奖励
   * [Minted Vodka MV交易市场](_posts/2022-03-19-mintedvodka.md)：一个强大的 NFT 市场，也可以提供质押解决方案
   * [GameAce NFT游戏](_posts/2022-03-19-gameace.md)：世界上第一个可玩的 NFT 游戏，原生于BSC 网络，但可移植到 ETH 和 Polygon
-
-![生态图](https://gat.network/wp-content/uploads/2022/01/gat-ecosystem-800x750.png)
 
 ## [合约地址](_posts/2022-03-19-contract.md)
 ### [GAT 质押](_posts/2022-03-19-stake.md)
