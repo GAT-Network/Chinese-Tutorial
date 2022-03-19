@@ -1,4 +1,9 @@
 title: GAT Network 中文区教程
-description: 欢迎各位小伙伴来贡献呀
+description: 欢迎各位来自GAT的小伙伴和家人！
 show_downloads: false
 theme: jekyll-theme-hacker
+author: wrydais
+url: https://gat-network.github.io/Chinese-Tutorial
+repository: /Chinese-Tutorial
+since: 2021
+excerpt_separator: <!--more-->

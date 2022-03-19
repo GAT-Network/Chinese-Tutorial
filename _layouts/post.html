@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<section id="post">
+  <header id="post__header">
+    <time class="post__date" datetime="{{ page.date | date: '%Y-%-m-%-d' }}">{{ page.date | date: "%Y.%-m.%-d" }}</time>
+    <h1 class="post__main_title">{{ page.title }}</h1>
+  </header>
+  <main id="post__main">
+    {{content}}
+  </main>
+  <footer id="post__footer">
+    <address class="post__author">author: {{ page.author | default: site.author }}</address>
+  </footer>
+</section>

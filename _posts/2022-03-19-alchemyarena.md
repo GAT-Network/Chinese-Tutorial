@@ -1,12 +1,17 @@
-# 炼金术竞技场 (Alchemy Arena)
-
-![](https://gat.network/wp-content/uploads/2021/06/Calendar-300x300.png "Calendar")
+---
+layout: post
+author: wrydais
+title: 炼金术竞技场 (Alchemy Arena)
+---
 
 * 竞技场游戏：https://alchemyarena.com/
 * 视频教程：https://gat.network/wp-content/uploads/2021/08/aa-1.mp4
 * 官网简介：https://gat.network/alchemy-arena-2/
 * 竞技场简介：https://docs.google.com/document/d/1Ol2bEKPiRU6HngQa_H2dCWzRiPWYkaBP9z7cy40U8A8/edit
-* XP代币交易：https://pancakeswap.finance/swap?outputCurrency=0xF7D2b88Cdfcc3a12452c76Be7455fe1FA7f48852
+
+<!--more-->
+
+![](https://gat.network/wp-content/uploads/2021/06/Calendar-300x300.png "Calendar")
 
 **由于目前正在测试，竞技场中的具体情况存在变动，可能与页面中描述的略有不同。轻关注我们的[twitter](https://twitter.com/AlchemyToys)以便获取最新消息。测试结束后，我们会对此页面进行更新。**
 

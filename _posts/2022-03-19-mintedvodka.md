@@ -1,4 +1,9 @@
-# Minted Vodka – 高度灵活的 NFT 交易所
+---
+layout: post
+author: wrydais
+title: Minted Vodka – 高度灵活的 NFT 交易所
+---
+
 ![](https://gat.network/wp-content/uploads/2022/01/PNG_Creators_MV-1200x848.png)
 
 网址：https://minted.vodka

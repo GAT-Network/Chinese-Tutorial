@@ -1,4 +1,8 @@
-# Alchemy Toys 炼金术玩具
+---
+layout: post
+author: wrydais
+title: Alchemy Toys 炼金术玩具
+---
 
 网址：https://alchemytoys.com/
 
@@ -7,6 +11,7 @@ NFT + Gaming + DeFi
 [代码审计报告](https://solidity.finance/audits/AlchemyToys/)
 
 玩家通过“朝拜”获得TOYS NFT(卡牌)，通过“熔炼”两个 TOYS 卡牌 以获得更高等级的TOYS 卡牌，通过“献祭”TOYS 使你更接近“启蒙”。当献祭出所有不同类型的玩具（总共 127 个），将赢得这个纪元的比赛，获得 “神庙宝藏”游戏金库里的奖池份额。
+<!--more-->
 
 ## 玩具 toys NFT
 
