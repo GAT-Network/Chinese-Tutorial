@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<ul id="posts">
+  {% for post in site.posts %}
+    <li class="post__item">
+      <a class="post__link" href="{{ site.repository }}{{ post.url }}">
+        <time class="post__link__date" datetime="{{ post.date | date: '%Y-%-m-%-d' }}">
+          {{ post.date | date: "%Y.%-m.%-d" }}
+        </time>
+        <h2 class="post__link__title">{{ post.title }}</h2>
+        <p class="post__link__excerpt">
+          {{ post.excerpt }}
+        </p>
+      </a>
+    </li>
+  {% endfor %}
+</ul>
+
+{{content}}
