@@ -9,7 +9,7 @@ title: Alchemy Toys 炼金术玩具 教程
 ![](https://gat.network/wp-content/uploads/2021/07/Logo-small-AT-400x142.png)
 
 <!--more-->
-* bake奶王写的关于bake ido项目GAT Network解析：[原文链接](https://bihu.com/a/1ZNo4k?i=5dO&c=1&s=1ZNo4k)
+
 * [游戏介绍](https://mp.weixin.qq.com/s/CDtmH7RB3MfeefwbM-knlw)
 * [卡成本计算的网址](https://zhangxianmeng.github.io/doggyNFT/dist/#/gat)
 

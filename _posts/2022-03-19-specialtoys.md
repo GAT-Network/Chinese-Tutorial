@@ -7,22 +7,6 @@ title: 特殊玩具
 Alchemy Toys 最多可容纳63个特殊玩具。这些 NFT 在 Alchemy Toys 中没有功能，但它们在[Alchemy Arena](https://gat.network/alchemy-arena/)（竞技场）游戏中发挥重要作用——而且它们具有很高的收藏价值，因为它们中的大多数都是有限的。
 <!--more-->
 
-随着时间的推移，将会出现更多的特殊玩具（总共 63 种不同类型）。获得它们的一种方法是赢得[挑战或获得空投](https://gat.network/challenges-nft-airdrops/)……也可以在 [市场](https://minted.vodka/)上购买他们，可以在[国债交易](https://gat.network/watch-out-collectors-special-toys-available-at-minted-vodka-very-soon/) 或[流动性交易中](https://gat.network/win-win-buy-special-toys-with-a-discount-secure-liquidity-for-gat/)找到特殊[玩具](https://gat.network/win-win-buy-special-toys-with-a-discount-secure-liquidity-for-gat/) 。
-
-
-- [现存的特殊玩具](#现存的特殊玩具)
-  - [Godhood Token （神令）](#godhood-token-神令)
-  - [The Dragonslayer （屠龙者）](#the-dragonslayer-屠龙者)
-  - [Artificial Heart （人工心脏）](#artificial-heart-人工心脏)
-  - [William Snakespeare （蛇）](#william-snakespeare-蛇)
-  - [Pocket Rocket （袖珍火箭）](#pocket-rocket-袖珍火箭)
-  - [Oldschool GPS （老派GPS）](#oldschool-gps-老派gps)
-  - [GATlantis （加特兰蒂斯、花园）](#gatlantis-加特兰蒂斯花园)
-  - [Alchemy Arena （炼金竞技场、大圆盘）](#alchemy-arena-炼金竞技场大圆盘)
-  - [Golden Dragon （金龙）](#golden-dragon-金龙)
-  - [Seeds of Time （时间的种子）](#seeds-of-time-时间的种子)
-
-
 ## 现存的特殊玩具
 
 ### Godhood Token （神令）
@@ -104,3 +88,5 @@ Alchemy Toys 最多可容纳63个特殊玩具。这些 NFT 在 Alchemy Toys 中�
 供应: 限量110个（销毁1）
 
 ![](https://gat.network/wp-content/uploads/2021/08/08e7c4ca-e498-4dab-8875-8c07ba4ec702-171x300.jpeg "08e7c4ca-e498-4dab-8875-8c07ba4ec702")
+
+随着时间的推移，将会出现更多的特殊玩具（总共 63 种不同类型）。获得它们的一种方法是赢得[挑战或获得空投](https://gat.network/challenges-nft-airdrops/)……也可以在 [市场](https://minted.vodka/)上购买他们，可以在[国债交易](https://gat.network/watch-out-collectors-special-toys-available-at-minted-vodka-very-soon/) 或[流动性交易中](https://gat.network/win-win-buy-special-toys-with-a-discount-secure-liquidity-for-gat/)找到特殊[玩具](https://gat.network/win-win-buy-special-toys-with-a-discount-secure-liquidity-for-gat/) 。

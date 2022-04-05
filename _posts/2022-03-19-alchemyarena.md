@@ -4,31 +4,28 @@ author: wrydais
 title: 炼金术竞技场 (Alchemy Arena)
 ---
 
-* 竞技场游戏：https://alchemyarena.com/
-* 视频教程：https://gat.network/wp-content/uploads/2021/08/aa-1.mp4
-* 官网简介：https://gat.network/alchemy-arena-2/
-* 竞技场简介：https://docs.google.com/document/d/1Ol2bEKPiRU6HngQa_H2dCWzRiPWYkaBP9z7cy40U8A8/edit
+## Happy hours 竞技场规则
+
+* 入场费为2GAT(以相对于gas费增加挑战费用/奖励)
+* 质押奖励为每天750 xp
+* 手的力量上限是6000; XP 的最大力量是平均力量的20% 以上。袖珍火箭允许超过20% 的权力上限，但在任何情况下，硬上限是在6000强度。
+* 游戏并不是完全确定的，总是有一个小的机会，一个较弱的手将会赢
+* 攻击手在攻击时手部力量增加10%
+* 每只手最多有一个特殊的玩具
+* 一只手中最弱的玩具将在一只手被打败时丢失
+* 新放置的手有一个冷却时间然后才可以在竞技场上挑战
+* 正常情况下，至少要有30只手才能进行挑战
+* 每12.5小时(以确保它能在不同时区旋转) ，最小挑战手数减至10只手1小时
 
 <!--more-->
 
 ![](https://gat.network/wp-content/uploads/2021/06/Calendar-300x300.png "Calendar")
-
-**由于目前正在测试，竞技场中的具体情况存在变动，可能与页面中描述的略有不同。轻关注我们的[twitter](https://twitter.com/AlchemyToys)以便获取最新消息。测试结束后，我们会对此页面进行更新。**
 
 持有玩具，参与战斗，赢取收益！
 
 Alchemy Arena（炼金术竞技场）是一款战斗游戏，玩家可以在此游戏中以炼金玩具卡牌(TOYS) 组成的卡组 (HAND) 与其他玩家竞争，以赢取诱人的奖励。
 
 该游戏将为获得并持有高价值TOYS（低序列号/高等级的TOYS）的用户提供额外的收入来源，同时为 GAT 代币引入动态通缩机制，并确保其在市场上的流动性。
-
-由 Solidity Finance 审计，确保您的资金安全
-[https://solidity.finance/audits/AlchemyToysArena/](https://solidity.finance/audits/AlchemyToysArena/)
-
-[详尽的英文说明](https://gat.network/wp-content/uploads/2021/09/Alchemy-Arena-Game-Manual-v.1.7.pdf)
-
-[开始竞技场游戏](https://alchemyarena.com)
-
-
 
 ## 创建HAND
 
@@ -60,7 +57,7 @@ Alchemy Arena（炼金术竞技场）是一款战斗游戏，玩家可以在此�
 
 ### 强化
 
-在进入竞技场时，玩家可以用经验点数（XP)强化自己的HAND，使自己的HAND获得高于标准强度的战斗力。( [![](https://gat.network/wp-content/uploads/2021/08/arena-xp2-tiny.png)](https://gat.network/wp-content/uploads/2021/08/arena-xp2-tiny.png) XP)
+在进入竞技场时，玩家可以用经验点数（XP)强化自己的HAND，使自己的HAND获得高于标准强度的战斗力。
 
 ## 参与战斗
 
@@ -80,7 +77,7 @@ Alchemy Arena（炼金术竞技场）是一款战斗游戏，玩家可以在此�
 
 获胜者将获得失败者战利品的95%（进入竞技场时所支付入场费的95%）。
 
-获胜者和失败者都会获得经验点数 ( XP)奖励，XP的多少取决于敌对方HAND的强度。这些XP将可以被用于强化其他HAND。**([![](https://gat.network/wp-content/uploads/2021/08/arena-xp2-tiny.png)](https://gat.network/wp-content/uploads/2021/08/arena-xp2-tiny.png) XP)**
+获胜者和失败者都会获得经验点数 ( XP)奖励，XP的多少取决于敌对方HAND的强度。这些XP将可以被用于强化其他HAND。
 
 被击败的HAND将会被拆散，并失去一个随机TOY(或最弱的TOY，由所参与竞技场的规则决定）。剩余四个TOY会被转回失败者手中。
 
@@ -119,8 +116,6 @@ Alchemy Arena（炼金术竞技场）是一款战斗游戏，玩家可以在此�
 *   如果获胜，将获得守方的一个TOY.
 *   如果HAND足够强大，可以更快地获取战利品（相对于被动等待被选中而言）。
 
-
-
 ## 以特殊道具增强你的HAND
 
 特殊TOY将会在炼金术竞技场中发光发热。最初的竞技场中将会用到8种不同的特殊道具（每一种都有增强HAND的超能力）。随后的竞技场中，更多特殊道具将会展现出作用。
@@ -129,25 +124,15 @@ Alchemy Arena（炼金术竞技场）是一款战斗游戏，玩家可以在此�
 
 总体上来说，序号越低，强度越高（但也不会高到离谱的程度）。
 
-
-
-![](https://gat.network/wp-content/uploads/2021/08/08e7c4ca-e498-4dab-8875-8c07ba4ec702-171x300.jpeg "08e7c4ca-e498-4dab-8875-8c07ba4ec702")
+* [特殊玩具介绍](/_posts/2022-03-19-specialtoys.md)
 
 [详尽的英文说明](https://gat.network/wp-content/uploads/2021/09/Alchemy-Arena-Game-Manual-v.1.7.pdf)
 
-[开始竞技场游戏](https://alchemyarena.com)
-
 [XP流动性池](https://pancakeswap.finance/swap?outputCurrency=0xF7D2b88Cdfcc3a12452c76Be7455fe1FA7f48852)
 
-## Happy hours 竞技场规则
+[Solidity Finance 审计报告](https://solidity.finance/audits/AlchemyToysArena/)
 
-* 入场费为2GAT(以相对于gas费增加挑战费用/奖励)
-* 质押奖励为每天750 xp
-* 手的力量上限是6000; XP 的最大力量是平均力量的20% 以上。袖珍火箭允许超过20% 的权力上限，但在任何情况下，硬上限是在6000强度。
-* 游戏并不是完全确定的，总是有一个小的机会，一个较弱的手将会赢
-* 攻击手在攻击时手部力量增加10%
-* 每只手最多有一个特殊的玩具
-* 一只手中最弱的玩具将在一只手被打败时丢失
-* 新放置的手有一个冷却时间然后才可以在竞技场上挑战
-* 正常情况下，至少要有30只手才能进行挑战
-* 每12.5小时(以确保它能在不同时区旋转) ，最小挑战手数减至10只手1小时
+* 视频教程：https://gat.network/wp-content/uploads/2021/08/aa-1.mp4
+* 官网简介：https://gat.network/alchemy-arena-2/
+* 竞技场简介：https://docs.google.com/document/d/1Ol2bEKPiRU6HngQa_H2dCWzRiPWYkaBP9z7cy40U8A8/edit
+

@@ -28,18 +28,18 @@
 
 > XP、GAT、卡牌（NFT）是 GAT生态里的三大通证。
 
-![IMG_20211123_143559](IMG_20211123_143559.jpg)
+![](IMG_20211123_143559.jpg)
 
 3. 质押的手可以采取两种策略：**进攻** 和 **防守**。防守类似于普通的质押，可以获取质押奖励。
 
-![IMG_20211123_143519](IMG_20211123_143519.jpg)
+![](IMG_20211123_143519.jpg)
 
 点击图中的“**挑战**”即可发起进攻，为了鼓励进攻以提高游戏的经济性（因为早期测试玩家倾向于和平相处挖矿），新竞技场现在会给进攻方一定的战力加成。
 
 - 进攻方胜：获得守方的门票奖励（GAT）和对方的一张卡牌。
 - 进攻方输：失败的手将会被打散，门票被守方赢得，并丢失一张卡牌（永久销毁）。
 
-![IMG_20211123_150303](IMG_20211123_150303.jpg)
+![](IMG_20211123_150303.jpg)
 
 > 门票 GAT 的5%也会在质押时被永久销毁。
 
@@ -47,37 +47,39 @@
 
 切换中文：
 
-![IMG_20211123_143012](IMG_20211123_143012.jpg)
+![](IMG_20211123_143012.jpg)
 
 查看自己的卡牌：
 
-![IMG_20211123_143054](IMG_20211123_143054.jpg)
+![](IMG_20211123_143054.jpg)
 
 查看自己已经质押的手：
 
-![IMG_20211123_143506](IMG_20211123_143506.jpg)
+![](IMG_20211123_143506.jpg)
 
 查看现有的竞技场：
 
-![IMG_20211123_143117](IMG_20211123_143117.jpg)
+![](IMG_20211123_143117.jpg)
 
 ## 常见问题 FAQ
 
 1. 游戏入口？
 
- https://alchemyarena.com/?a=0x9a818a78d665224Dfb84771d86fD54611788FD70
+[入口](https://alchemyarena.com/?a=0xad2446EE96e03C46f9EdF8587e4473153b4cE116)
 
 2. 游戏合约是否审计？
 
-该游戏合约由 Solidity Finance 审计，审计报告：https://solidity.finance/audits/AlchemyToysArena/
+该游戏合约由 Solidity Finance 审计。
+
+[审计报告](https://solidity.finance/audits/AlchemyToysArena/)
 
 3. 什么是特殊卡牌？
 
-![IMG_20211123_151025_926](IMG_20211123_151025_926.jpg)
+![](IMG_20211123_151025_926.jpg)
 
 Alchemy Toys 最多可容纳63个特殊玩具。这些 NFT 在 Alchemy Toys 中没有功能，但它们在Alchemy Arena（竞技场）游戏中发挥重要作用——而且它们具有很高的收藏价值，因为它们中的大多数都是有限的。
 
-中文区教程介绍：https://github.com/GAT-Network/Chinese-Tutorial/blob/main/specialtoys.md
+[查看详细内容](/_posts/2022-03-19-specialtoys.md)
 
 4. 有视频教程吗？
 
@@ -102,7 +104,7 @@ Alchemy Toys 最多可容纳63个特殊玩具。这些 NFT 在 Alchemy Toys 中�
 
 6. 什么时候可以挖其他代币？
 
-项目方正在寻找竞技场合作的对象，在进入币安lab孵化计划后，应该可以找到不错的合作，近期就会推出launchpad功能。
+项目方正在寻找竞技场合作的对象，在进入币安lab孵化计划后，应该可以找到不错的合作。
 
 7. 我组的手怎么不见了？
 
@@ -113,6 +115,6 @@ Alchemy Toys 最多可容纳63个特殊玩具。这些 NFT 在 Alchemy Toys 中�
 获取途径有3种：
 
 - 第一个游戏：朝拜一次获取3张卡，熔炼可以获得更高级别的卡牌。
-- 盲盒抽取： https://alchemyarena.com/oven
-- 市场购买：https://minted.vodka/ ，也可以在bake等nft市场购买。
+- [盲盒抽取特殊卡牌](https://alchemyarena.com/oven)
+- 市场购买：[MV市场](https://minted.vodka/) ，也可以在bake等nft市场购买。
 
