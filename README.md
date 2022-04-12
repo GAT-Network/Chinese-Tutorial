@@ -32,6 +32,7 @@
 * GAT价格及链上活动监控：[Telegram](https://t.me/gatalert)
 * [GAT 质押](_posts/2022-03-19-stake.md)
 * 非官方玩具NFT交易群：[Telegram](https://t.me/alchemynfttoysoffering)
+* MV市场NFT项目提交验证： [Google表单](https://forms.gle/YynkG1YyUhmVFDCL7)
 
 ----
 
