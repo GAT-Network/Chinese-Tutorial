@@ -12,7 +12,7 @@ $pc-width: 768px;
 :root {
   --color-yellow: #f5f5d5;
   --color-yellow-a: #f5f5d5;
-  --color-white: rgb( 255, 255, 255);
+  --color-black: rgb(0, 0, 0);
   --color-gray: rgb( 180, 180, 180);
   --color-gray-a: rgba( 180, 180, 180, .8);
   --color-yellow-10: #f5f5d5;
@@ -20,15 +20,15 @@ $pc-width: 768px;
   --color-yellow-40: #f3f388;
   --color-yellow-60: #f1f186;
 
-  --color-main: var(--color-white);
+  --color-main: var(--color-black);
   --color-bg: var(--color-yellow);
   --color-bg-a: var(--color-yellow-a);
-  --color-bg-content: var(--color-yellow-10);
+  --color-bg-content: var(--color-black);
   --color-border: var(--color-gray);
   --color-border-a: var(--color-gray-a);
-  --color-brand: var(--color-yellow-40);
-  --color-brand-light: var(--color-yellow-60);
-  --color-brand-dark: var(--color-yellow-20);
+  --color-brand: var(---color-black);
+  --color-brand-light: var(---color-black);
+  --color-brand-dark: var(--color-black);
 
   --font-normal: 'M PLUS Rounded 1c', sans-serif;
   --font-title: 'Shippori Mincho B1', serif;
