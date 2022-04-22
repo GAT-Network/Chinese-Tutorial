@@ -1,6 +1,4 @@
 ---
-layout: post
-author: wrydais
 title: 特殊玩具
 ---
 

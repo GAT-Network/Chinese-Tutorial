@@ -1,10 +1,6 @@
 ---
-layout: post
-author: wrydais
 title: 参与贡献
 ---
-
-## 参与贡献
 
 > 若以下内容太过晦涩难懂，难以实行，请注册登陆后进入`issue`界面点击`New issue`绿色按钮直接提交内容：[直达Issue界面](https://github.com/GAT-Network/Chinese-Tutorial/issues)
 

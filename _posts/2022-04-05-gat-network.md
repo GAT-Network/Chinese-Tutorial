@@ -1,6 +1,4 @@
 ---
-layout: post
-author: wrydais
 title: Gat Network 简介
 ---
 

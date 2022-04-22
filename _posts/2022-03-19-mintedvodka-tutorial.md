@@ -1,6 +1,4 @@
 ---
-layout: post
-author: wrydais
 title: Minted Vodka MV交易市场 教程
 ---
 
