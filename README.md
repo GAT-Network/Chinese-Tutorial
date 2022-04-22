@@ -1,5 +1,5 @@
 > 本教程源码开源托管在 [Github](https://github.com/GAT-Network/Chinese-Tutorial) 上，欢迎[参与贡献维护](_posts/2022-04-19-contribute.md)。  
-> 一切信息请以<a href="https://gat.network/"><strong>GAT Network 官方网站 </strong></a>为准。
+> 一切信息请以[GAT Network 官方网站](https://gat.network/) 为准。
 
 ## [Gat Network 简介](_posts/2022-04-05-gat-network.md)
 
