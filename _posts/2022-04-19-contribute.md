@@ -1,6 +1,4 @@
 ---
-layout: default
-author: wrydais
 title: 参与贡献
 ---
 

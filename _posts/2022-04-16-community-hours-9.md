@@ -1,6 +1,4 @@
 ---
-layout: default
-author: wrydais
 title: 社区一小时回顾 # 9
 ---
 

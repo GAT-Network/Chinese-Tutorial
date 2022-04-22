@@ -1,6 +1,4 @@
 ---
-layout: default
-author: wrydais
 title: 特殊玩具
 ---
 

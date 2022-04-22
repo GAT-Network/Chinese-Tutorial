@@ -1,6 +1,4 @@
 ---
-layout: default
-author: wrydais
 title: GATe成长基金
 ---
 
