@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 author: wrydais
 title: Alchemy Arena 竞技场 教程
 ---

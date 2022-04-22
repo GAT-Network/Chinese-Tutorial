@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 author: wrydais
 title: Minted Vodka – 高度灵活的 NFT 交易所
 ---

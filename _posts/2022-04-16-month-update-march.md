@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 author: wrydais
 title: 3月 月报
 ---

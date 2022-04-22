@@ -1,5 +1,5 @@
 ---
-layout: front
+layout: default
 ---
 
 ## [Gat Network 简介](_posts/2022-04-05-gat-network.md)

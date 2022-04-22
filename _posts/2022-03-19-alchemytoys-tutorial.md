@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 author: wrydais
 title: Alchemy Toys 炼金术玩具 教程
 ---

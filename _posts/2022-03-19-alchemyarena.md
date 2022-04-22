@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 author: wrydais
 title: 炼金术竞技场 (Alchemy Arena)
 ---

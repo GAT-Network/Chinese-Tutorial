@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 author: wrydais
 title: Gat Network 简介
 ---
