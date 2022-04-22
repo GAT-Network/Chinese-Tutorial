@@ -1,7 +1,7 @@
 ---
 layout: post
 author: wrydais
-title: Community AMA #9 / 社区 AMA # 9
+title: 社区一小时回顾 # 9
 ---
 
 ![](https://miro.medium.com/max/1400/1*hzEdC_ZnozM20_xYJ03TwA.png)
