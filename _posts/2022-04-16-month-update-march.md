@@ -4,11 +4,10 @@ author: wrydais
 title: 3月 月报
 ---
 
+GAT Network Update *March* GAT Network 3月更新
+<!--more-->
+
 > 大部分为机器自动翻译，因此提供中英对照，方便校对，若发现有误，欢迎[参与贡献维护](_posts/2022-04-19-contribute.md)。
-
-
-GAT Network Update *March*
-3月网络更新
 
 If you didn’t have the time to follow GAT Network’s activities closely during the last weeks, here is a retrospective for March!
 如果您没有时间密切关注 GAT 网络在过去几周的活动，这里是三月份的回顾
