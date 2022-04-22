@@ -19,3 +19,10 @@ title: Alchemy Toys 炼金术玩具 教程
 * [兔兔crypto之视频介绍玩法1](https://www.youtube.com/watch?v=gkC_zZvfqq4)
 * [兔兔crypto之视频介绍玩法2](https://www.youtube.com/channel/UCyx5lBuylT9Wxuszbs9LcaA)
 * [兔兔crypto之视频介绍玩法3](https://youtu.be/3O5USuS9T4w)
+
+可交易玩具的NFT市场
+
+- https://minted.vodka/market
+- https://legacy.minted.vodka/
+- https://www.bakeryswap.org/#/collection/toy
+- https://tofunft.com/collection/alchemy-arena-alchemytoys/items

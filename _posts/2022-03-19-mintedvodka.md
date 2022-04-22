@@ -2,13 +2,16 @@
 title: Minted Vodka – 高度灵活的 NFT 交易所
 ---
 
+网址：[https://minted.vodka](https://minted.vodka)
 
-
-网址：https://minted.vodka
+合作：[Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfTI3ZnLmeWJddr2mLipBerTKXuE9jr9U2FC-RCmlQPe2v-eA/viewform)
 
 Minted Vodka（简称MV） 是由GAT自行开发的一个可以交易任何BEP721（NFT）和BEP20（代币）的交易所，具备非常完整的灵活性，支持使用任何加密资产的任意组合，多对多交易，功能丰富且强大。
+
 <!--more-->
+
 ![](https://gat.network/wp-content/uploads/2022/01/PNG_Creators_MV-1200x848.png)
+
 ## MV市场 v2 特性
 
 * **跨链交易**：在主要的L1/L2网络上创建超级灵活的交易。用任何东西换任何数量的东西。最大的灵活性以符合您的需求，距离计划中的跨链交易仅一步之遥！
