@@ -4,15 +4,13 @@ author: wrydais
 title: Community AMA #9 / 社区 AMA # 9
 ---
 
-> 大部分为机器自动翻译，因此提供中英对照，方便校对，若发现有误，欢迎[参与贡献维护](_posts/2022-04-19-contribute.md)。
-
-# [Community AMA #9 / 社区 AMA # 9/](https://medium.com/gat-network/community-ama-7-february-21st-d2640c4a799b)
-
-April 11 四月十一日
-
 ![](https://miro.medium.com/max/1400/1*hzEdC_ZnozM20_xYJ03TwA.png)
 
+<!--more-->
 
+April 11 四月十一日
+> 大部分为机器自动翻译，因此提供中英对照，方便校对，若发现有误，欢迎[参与贡献维护](_posts/2022-04-19-contribute.md)。
+原文：https://medium.com/gat-network/community-ama-7-february-21st-d2640c4a799b)
 Roman:
 Hey all!
 
