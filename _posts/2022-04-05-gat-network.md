@@ -21,9 +21,9 @@ GAT 是以 **[Minted Vodka](https://minted.vodka/)** 为中心的**下一代加�
 
 围绕 MintedVodka 市场，GAT Network 创造、构建和连接在线游戏体验。自2021年5月以来，已经建成并发布了3个受欢迎的项目:
 
-*   [**炼金术玩具 Alchemy Toys**](https://alchemytoys.com/) – p2e 游戏
-*   [**炼金术竞技场 Alchemy Arena**](https://alchemyarena.com/) – p2e 游戏
-*   [**Game Ace**](https://gameace.at/#/) – 世界上第一个可玩的游戏NFT
+*   [炼金术玩具 Alchemy Toys](https://alchemytoys.com/) – p2e 游戏
+*   [炼金术竞技场 Alchemy Arena](https://alchemyarena.com/) – p2e 游戏
+*   [Game Ace](https://gameace.at/#/) – 世界上第一个可玩的游戏NFT
 
 ![生态图](https://gat.network/wp-content/uploads/2022/01/gat-ecosystem-800x750.png)
 

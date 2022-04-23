@@ -3,7 +3,7 @@
 
 ## [Gat Network 简介](_posts/2022-04-05-gat-network.md)
 
-## [**合约地址**](_posts/2022-03-19-contract.md)
+## [合约地址](_posts/2022-03-19-contract.md)
 
 ----
 
