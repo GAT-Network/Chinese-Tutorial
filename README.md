@@ -1,5 +1,5 @@
 > 本教程源码开源托管在 [Github](https://github.com/GAT-Network/Chinese-Tutorial) 上，欢迎[参与贡献维护](_posts/2022-04-19-contribute.md)。  
-> 一切信息请以<a href="https://gat.network/"><strong>GAT Network 官方网站 </strong></a>为准。
+> 一切信息请以[GAT Network 官方网站](https://gat.network/) 为准。
 
 ## [Gat Network 简介](_posts/2022-04-05-gat-network.md)
 
@@ -53,7 +53,6 @@
 
 参与币安 MVB IV 孵化计划
 
-
 ## 所有文章
 
 * 新人必看 – [Telegraph](https://telegra.ph/新人必看-04-23)、[Github](README.md)
@@ -94,3 +93,4 @@
 
 
 * 参与贡献 – [Telegraph](https://telegra.ph/参与贡献-04-23)、[Github](_posts/2022-04-19-contribute.md)
+
