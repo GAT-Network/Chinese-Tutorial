@@ -1,5 +1,5 @@
 ---
-title: Minted Vodka MV交易市场 教程
+title: GameAce NFT游戏 教程
 ---
 
 网址：https://gameace.at/
