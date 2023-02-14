@@ -1,5 +1,5 @@
 # 本处不再更新，更新转移到新的地址：[GAT Network 中文区教程](https://github.com/GAT-Network/Tutorial/blob/main/README_CN.md)
-
+# This repository is no longer updated, new repository is  https://github.com/GAT-Network/Tutorial
 > 本教程源码开源托管在 [Github](https://github.com/GAT-Network/Chinese-Tutorial) 上，欢迎[参与贡献维护](_posts/2022-04-19-contribute.md)。  
 > 一切信息请以[GAT Network 官方网站](https://gat.network/) 为准。
 
